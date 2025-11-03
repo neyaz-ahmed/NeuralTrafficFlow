@@ -5,7 +5,7 @@ By combining the expressive power of **neural ordinary differential equations (N
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
 * **Neural ODE component:** Learns continuous-time evolution of traffic density and velocity. 
 * **PDE-based prior:** Embeds physical traffic laws (e.g., LWR model) into the learning process. 
@@ -92,6 +92,12 @@ This project is licensed under the **MIT License** – see the [LICENSE](https:/
 
 > *"Bridging physics and learning for intelligent traffic modeling."*
 
-Reference: 
-1. https://archive.ics.uci.edu/dataset/608/traffic%2Bflow%2Bforecasting
-2. 
+## 📚 References
+
+1. [UCI Machine Learning Repository – Traffic Flow Forecasting Dataset](https://archive.ics.uci.edu/dataset/608/traffic%2Bflow%2Bforecasting)  
+2. [arXiv:2101.04359](https://arxiv.org/abs/2101.04359)  
+3. [arXiv:2010.08895](https://arxiv.org/abs/2010.08895)  
+4. [arXiv:1711.10561](https://arxiv.org/abs/1711.10561)  
+5. [arXiv:1806.07366](https://arxiv.org/abs/1806.07366)
+
+
