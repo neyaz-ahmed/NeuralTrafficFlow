@@ -1,11 +1,4 @@
 
-
-```markdown
-# NeuralTrafficFlow 🚦  
-*A neural ODE–PDE framework for data-driven modeling of traffic flow dynamics.*
-
----
-
 ## 📘 Overview
 
 This repository presents a **Neural ODE–PDE hybrid framework** for simulating and learning **traffic flow dynamics** from data.  
