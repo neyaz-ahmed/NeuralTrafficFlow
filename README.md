@@ -52,7 +52,7 @@ NeuralTrafficFlow/
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ```bash
 git clone [https://github.com/neyaz-ahmed/NeuralTrafficFlow.git](https://github.com/neyaz-ahmed/NeuralTrafficFlow.git)
@@ -92,7 +92,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](https:/
 
 > *"Bridging physics and learning for intelligent traffic modeling."*
 
-## 📚 References
+## References
 
 1. [UCI Machine Learning Repository – Traffic Flow Forecasting Dataset](https://archive.ics.uci.edu/dataset/608/traffic%2Bflow%2Bforecasting)  
 2. [arXiv:2101.04359](https://arxiv.org/abs/2101.04359)  
